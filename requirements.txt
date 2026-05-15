@@ -1,0 +1,6 @@
+pyrogram==2.0.106
+pytgcalls==5.2.0
+yt-dlp==2024.7.9
+tgcrypto==1.2.5
+ffmpeg-python==0.2.0
+pydub==0.25.1
